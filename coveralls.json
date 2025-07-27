@@ -1,0 +1,19 @@
+{
+  "skip_files": [
+    "lib/we_craft/repo.ex",
+    "lib/we_craft/release",
+    "lib/we_craft_web/controllers/page_html.ex",
+    "lib/we_craft_web/controllers/page_controller.ex",
+    "lib/we_craft/open_observe.ex",
+    "test/",
+    "deps/"
+  ],
+  "coverage_options": {
+    "treat_no_relevant_lines_as_covered": true,
+    "output_dir": "cover/",
+    "minimum_coverage": 78
+  },
+  "terminal_options": {
+    "file_column_width": 80
+  }
+}
