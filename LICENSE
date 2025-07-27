@@ -1,0 +1,69 @@
+# WeCraft Open Source License (Non-Commercial)
+
+Copyright (c) 2025 Guillaume Bailleul (The Nerd Company)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction for **non-commercial purposes**, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
+
+## Terms and Conditions
+
+### 1. Non-Commercial Use Only
+
+This license permits use of the Software for:
+- Personal projects and learning
+- Educational purposes
+- Research and development
+- Open source contributions
+- Non-profit organizations
+
+**Commercial use is strictly prohibited** without explicit written permission
+from the copyright holder. Commercial use includes but is not limited to:
+- Using the Software in a commercial product or service
+- Selling the Software or services based on the Software
+- Monetizing the Software through advertising, subscriptions, or any other means
+- Offering the Software as a service (SaaS)
+- Using the Software in any revenue-generating activity
+
+### 2. Attribution
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+### 3. Open Source Spirit
+
+This Software is open source and welcomes contributions from the community.
+Contributors retain their rights to their contributions while agreeing that
+their contributions will be subject to the same license terms.
+
+### 4. Commercial Licensing
+
+For commercial use, please contact the copyright holder to obtain a separate
+commercial license. Commercial licenses are available and reasonably priced
+to support the ongoing development of this open source project.
+
+### 5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### 6. Termination
+
+This license will terminate automatically if you fail to comply with any of
+its terms. Upon termination, you must destroy all copies of the Software in
+your possession and cease all use of the Software.
+
+---
+
+**For commercial licensing inquiries, please contact:** guillaume.bailleul@gmail.com
+
+This license is inspired by the Creative Commons Non-Commercial model but
+tailored specifically for software development and open source collaboration.
