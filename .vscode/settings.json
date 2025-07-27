@@ -1,0 +1,16 @@
+{
+  "coverage-gutters.showGutterCoverage": true,
+  "coverage-gutters.coverageFileNames": ["lcov.info"],
+  "coverage-gutters.showLineCoverage": true,
+  "coverage-gutters.coverageBaseDir": "cover",
+  "coverage-gutters.ignoredPathGlobs": "**/deps/**,**/test/**,**/priv/**",
+  "coverage-gutters.customizable.status-bar-toggler-watchCoverageAndVisibleEditors-enabled": true,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#FF6B35",
+    "statusBar.foreground": "#FFFFFF",
+    "titleBar.activeBackground": "#FF6B35",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#E55A2B",
+    "titleBar.inactiveForeground": "#F0F0F0"
+  }
+}
