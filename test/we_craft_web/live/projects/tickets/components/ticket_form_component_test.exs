@@ -1,0 +1,2 @@
+defmodule WeCraftWeb.Projects.Tickets.TicketFormComponentTest do
+end

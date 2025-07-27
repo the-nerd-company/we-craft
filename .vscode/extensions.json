@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "samuel-pordeus.elixir-test",
+    "jakebecker.elixir-ls",
+    "docker.docker",
+    "ms-azuretools.vscode-docker",
+    "phoenixframework.phoenix"
+  ]
+}
